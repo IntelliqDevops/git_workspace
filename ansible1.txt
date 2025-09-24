@@ -1,0 +1,5 @@
+ansible all/group_name/ipaddress -i path_of_inventory -m module_nam -a '   '
+
+1 command
+2 shell
+3 user (name,password,uid,comment,shell,home,state)

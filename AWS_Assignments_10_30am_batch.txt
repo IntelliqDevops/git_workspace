@@ -1,0 +1,16 @@
+AWS-Terraform Assignment
+================================
+You need to provision an EC2 instance, attach a security group, and ensure SSH access is allowed. Write a Terraform configuration.
+
+You deleted an EC2 instance manually from AWS Console, but it's still in the Terraform state. How do you fix this?
+
+How would you recover from a corrupted Terraform state file stored in S3?
+
+You want to pass environment-specific variables into a module. How do you structure your code?
+
+You have 50+ resources in your configuration. How do you make sure Terraform runs faster and in smaller pieces?
+
+Send the solutions to selenium.saikrishna@gmail.com
+
+
+
